@@ -1,0 +1,19 @@
+{
+    "name": "pol/php-challenge",
+    "type": "proyect",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Pol\\PhpChallenge\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pablosecuen",
+            "email": "pablosecuen@gmail.com"
+        }
+    ]
+}
